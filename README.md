@@ -275,10 +275,6 @@ This project demonstrates how to use a pretrained YOLOv5 model for object detect
 
 ---
 
-## Author
-
-Computer Vision and Deep Learning Project using YOLOv5, PyTorch, and OpenCV.
-
 ## License
 
-This project is intended for educational and academic purposes.
+MIT License
